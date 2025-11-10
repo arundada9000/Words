@@ -70,7 +70,7 @@ You can also personalize it with your crush’s name:
 
 <p align="center">
 <!-- <video src="./preview/throbbing.mp4" width="500" controls alt="Throbbing video"></video> -->
-<image src="./preview/throbbing.gif" alt="throbbing gif">
+<img src="./preview/throbbing.gif" alt="throbbing gif">
 
 </p>
 
