@@ -106,3 +106,8 @@ I hereby declare that anyone can use this code freely, but **images, music, and 
 <p align="center">
 <img src="./preview/logo-circle.png" height="200">
 </p>
+
+<p align="center">
+  <i>Made with ❤️, a bit of JavaScript, and a whole lot of feelings 😅</i><br>
+  <i>© 2026 Arun Neupane — All rights reserved for images, music, and personal assets.</i>
+</p>
