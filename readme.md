@@ -1,6 +1,6 @@
-# 💌 Propose Your Crush 💕
+# ClickToLove : 💌 Propose Your Crush 💕
 
-A fun, romantic, and creative way to propose to your crush — not just by words, but with style and animation!  
+A fun, romantic, and creative way to propose to your crush, not just by words, but with style and animation!  
 Click on each word, and watch magic happen as they form a beating heart with background music that sets the mood. 💓
 
 [🎬 Live Demo: https://arundada9000.github.io/Words/](https://arundada9000.github.io/Words/)
@@ -27,7 +27,7 @@ Click on each word, and watch magic happen as they form a beating heart with bac
 
 ---
 
-✨ When your crush clicks the words, the top two will turn into circles and the bottom one into a rotated rectangle — together forming a beautiful heart that throbs with love, along with soft background music. 🎶❤️
+✨ When your crush clicks the words, the top two will turn into circles and the bottom one into a rotated rectangle, together forming a beautiful heart that throbs with love, along with soft background music. 🎶❤️
 
 ---
 
@@ -69,9 +69,7 @@ You can also personalize it with your crush’s name:
 ## 🌸 Preview of the Animation
 
 <p align="center">
-<!-- <video src="./preview/throbbing.mp4" width="500" controls alt="Throbbing video"></video> -->
 <img src="./preview/throbbing.gif" alt="throbbing gif">
-
 </p>
 
 The heart pulses and glows beautifully while the background music plays, creating a perfect romantic vibe. 💗
@@ -100,7 +98,7 @@ I hereby declare that anyone can use this code freely, but **images, music, and 
 
 ---
 
-🎥 **Tutorial Link:** []()  
+🎥 **Tutorial Link:** [https://youtu.be/UJxk68ZucIw](https://youtu.be/UJxk68ZucIw)  
 📺 **My YouTube Channel:** [https://youtube.com/@arundada9000](https://youtube.com/@arundada9000)
 
 <p align="center">
