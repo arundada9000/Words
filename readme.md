@@ -3,7 +3,7 @@
 A fun, romantic, and creative way to propose to your crush — not just by words, but with style and animation!  
 Click on each word, and watch magic happen as they form a beating heart with background music that sets the mood. 💓
 
-[🎬 Live Demo: https://arundada9000.github.io/words/](https://arundada9000.github.io/words/)
+[🎬 Live Demo: https://arundada9000.github.io/Words/](https://arundada9000.github.io/Words/)
 
 ---
 
