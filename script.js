@@ -4,7 +4,8 @@
  GitHub: https://github.com/arundada9000
  YouTube: https://youtube.com/@arundada9000
  Instagram: https://instagram.com/arundada9000
- Project Date: 2025
+ Instagram: https://facebook.com/arundada9000
+ Project Date: 2025 November 10
 
  Description:
  A fun and romantic webpage that lets you propose your crush in a creative, animated way.
@@ -45,7 +46,7 @@ function check() {
  YouTube: https://youtube.com/@arundada9000
  Instagram: https://instagram.com/arundada9000
  Instagram: https://facebook.com/arundada9000
- Project Date: 2025
+ Project Date: 2025 November 10
 
  Description:
  A fun and romantic webpage that lets you propose your crush in a creative, animated way.

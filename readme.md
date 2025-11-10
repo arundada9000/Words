@@ -109,5 +109,5 @@ I hereby declare that anyone can use this code freely, but **images, music, and 
 
 <p align="center">
   <i>Made with ❤️, a bit of JavaScript, and a whole lot of feelings 😅</i><br>
-  <i>© 2026 Arun Neupane — All rights reserved for images, music, and personal assets.</i>
+  <i>© 2025 Arun Neupane — All rights reserved for images, music, and personal assets.</i>
 </p>
