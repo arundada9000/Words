@@ -1,13 +1,13 @@
-# ClickToLove : 💌 Propose Your Crush 💕
+﻿# ClickToLove :  Propose Your Crush 
 
 A fun, romantic, and creative way to propose to your crush, not just by words, but with style and animation!  
-Click on each word, and watch magic happen as they form a beating heart with background music that sets the mood. 💓
+Click on each word, and watch magic happen as they form a beating heart with background music that sets the mood. 
 
-[🎬 Live Demo: https://arundada9000.github.io/Words/](https://arundada9000.github.io/Words/)
+[ Live Demo: https://arundada9000.github.io/Words/](https://arundada9000.github.io/Words/)
 
 ---
 
-## 💻 Desktop Preview
+##  Desktop Preview
 
 <img src="./preview/preview1.png">
 <img src="./preview/preview2.png">
@@ -16,7 +16,7 @@ Click on each word, and watch magic happen as they form a beating heart with bac
 
 ---
 
-## 📱 Mobile Preview
+##  Mobile Preview
 
 <p align="center">
 <img src="./preview/mobile-preview1.png" height="400">
@@ -27,13 +27,13 @@ Click on each word, and watch magic happen as they form a beating heart with bac
 
 ---
 
-✨ When your crush clicks the words, the top two will turn into circles and the bottom one into a rotated rectangle, together forming a beautiful heart that throbs with love, along with soft background music. 🎶❤️
+✨ When your crush clicks the words, the top two will turn into circles and the bottom one into a rotated rectangle, together forming a beautiful heart that throbs with love, along with soft background music. ❤
 
 ---
 
-## 🛠️ How to Customize It
+##  How to Customize It
 
-### 💖 Change the Words
+###  Change the Words
 
 1. Open the main HTML file (`index.html`).
 2. Look for the section where the words are written.
@@ -43,7 +43,7 @@ Click on each word, and watch magic happen as they form a beating heart with bac
 
 ---
 
-### 🎵 Change the Music
+###  Change the Music
 
 <p align="center">
 <img src="./preview/music.png" height="100">
@@ -57,29 +57,29 @@ Click on each word, and watch magic happen as they form a beating heart with bac
 
 ---
 
-### 💞 Change the Name
+###  Change the Name
 
 You can also personalize it with your crush’s name:
 
 1. Find the **`<h1>` or `<p>` tag** in your HTML that displays the name.
-2. Replace the name with your crush’s name (or your own 😉).
+2. Replace the name with your crush’s name (or your own ).
 
 ---
 
-## 🌸 Preview of the Animation
+##  Preview of the Animation
 
 <p align="center">
 <img src="./preview/throbbing.gif" alt="throbbing gif">
 </p>
 
-The heart pulses and glows beautifully while the background music plays, creating a perfect romantic vibe. 💗
+The heart pulses and glows beautifully while the background music plays, creating a perfect romantic vibe. 
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 I'm always happy to collaborate on creative and fun web projects!  
-Let’s connect 👇
+Let’s connect 
 
 [![YouTube](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunneupane0000@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@arundada9000)
@@ -88,8 +88,8 @@ Let’s connect 👇
 
 ---
 
-_Made with ❤️ and a touch of courage._  
-_Sometimes, code can say what words can’t._ 😅
+_Made with ❤ and a touch of courage._  
+_Sometimes, code can say what words can’t._ 
 
 Made By **Arun Neupane**  
 **For educational purpose** on **Code With Ease** YouTube channel.
@@ -98,14 +98,19 @@ I hereby declare that anyone can use this code freely, but **images, music, and 
 
 ---
 
-🎥 **Tutorial Link:** [https://youtu.be/UJxk68ZucIw](https://youtu.be/UJxk68ZucIw)  
-📺 **My YouTube Channel:** [https://youtube.com/@arundada9000](https://youtube.com/@arundada9000)
+ **Tutorial Link:** [https://youtu.be/UJxk68ZucIw](https://youtu.be/UJxk68ZucIw)  
+ **My YouTube Channel:** [https://youtube.com/@arundada9000](https://youtube.com/@arundada9000)
 
 <p align="center">
 <img src="./preview/logo-circle.png" height="200">
 </p>
 
 <p align="center">
-  <i>Made with ❤️, a bit of JavaScript, and a whole lot of feelings 😅</i><br>
-  <i>© 2025 Arun Neupane — All rights reserved for images, music, and personal assets.</i>
+  <i>Made with ❤, a bit of JavaScript, and a whole lot of feelings </i><br>
+  <i>© 2025 Arun Neupane - All rights reserved for images, music, and personal assets.</i>
 </p>
+---
+
+## License
+
+This project is for educational and personal learning purposes only. Commercial use, public deployment, or any revenue-generating use requires explicit written permission from the author. See [LICENSE](LICENSE) for details.
